@@ -1,3 +1,37 @@
-p,h2{
-color: blueviolet;
+h2{
+    color: blue;
+    background-color: lightgray;
+    font-family:    Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+h1{
+    color: brown;
+    background-color: lightgray;
+    font-family:fantasy;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: dashed underline;
+    line-height: 0%;
+}
+p.a, p.b, p.c, p.d, p.e{
+    color: green;
+    background-color: lightgray;
+    font-family:    Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    line-height: 150%;
+}
+p.a{
+    text-align: center;
+}
+p.b{
+    text-align: left;
+}
+p.c{
+    text-align: right;
+}
+p.d{
+    text-align: justify;
+}
+p.e{
+    text-align: initial;
 }
