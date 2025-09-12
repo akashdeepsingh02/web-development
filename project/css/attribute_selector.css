@@ -1,3 +1,8 @@
-input[type="text"] {
+input[type="submit"] {
     color: brown;
+}
+input[type="text"] {
+    color: blue;
+}input[type="password"] {
+    color: green;
 }
