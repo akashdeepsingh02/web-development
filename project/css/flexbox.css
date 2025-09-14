@@ -1,0 +1,10 @@
+.container{
+    border: dotted 2px skyblue;
+    width: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.container > div{
+    border: solid 2px skyblue;
+    border-radius: 5px;
+}
